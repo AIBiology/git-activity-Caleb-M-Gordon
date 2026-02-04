@@ -1,5 +1,7 @@
 # :wave: The Basics of GitHub 
 
+This is the test-branch version of this document. 
+
 This starter assignment from GitHub will get you started using git and GitHub for our AI in Biology course. We will use GitHub Classrooms throughout the semester for assignments, so getting a solid foundation early on will be important.
 
 ## To Do
